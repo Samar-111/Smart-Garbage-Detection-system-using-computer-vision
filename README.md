@@ -111,7 +111,10 @@ Prediction: plastic
 
 ```python
 dataset_path = "/content/dataset"
+```
 3.Run the notebook cells sequentially.
 4.Train the model and test predictions.
 
-### Dataset Structure
+
+
+
